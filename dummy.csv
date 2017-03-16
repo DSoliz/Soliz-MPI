@@ -1,0 +1,7 @@
+StateAbbr,PlaceName,PlaceFIPS,Population2010,ACCESS2_CrudePrev,ACCESS2_Crude95CI,ACCESS2_AdjPrev,ACCESS2_Adj95CI
+AL,Birmingham,107000,212237,22.6,"(22.1, 23.0)",21.4,"(21.0, 21.8)"
+AL,Hoover,135896,81619,10.6,"(10.2, 11.1)",10.2,"( 9.7, 10.7)"
+AL,Huntsville,137000,180105,17.4,"(16.9, 17.8)",16.3,"(15.9, 16.7)"
+AL,Mobile,150000,195111,20,"(19.6, 20.4)",19.1,"(18.7, 19.5)"
+AL,Montgomery,151000,205764,19.7,"(19.2, 20.2)",18.5,"(18.1, 19.0)"
+AL,Tuscaloosa,177256,90468,20.3,"(19.4, 21.4)",18.5,"(17.9, 19.2)"
